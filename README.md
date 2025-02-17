@@ -1,6 +1,6 @@
 # Hello, I'm Lamel Kekana 👋
 
-Welcome to myprofile! I'm passionate about data science and machine learning, and I love taking on projects that let me explore new technologies and put my skills to the test.
+Welcome to my profile! I'm passionate about data science and machine learning, and I love taking on projects that let me explore new technologies and put my skills to the test.
 
 ## 🔗 Connect with Me:
 [![Email](https://img.shields.io/badge/Lamel466@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Lamel466@gmail.com)
