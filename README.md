@@ -25,6 +25,6 @@ Welcome to my profile! I'm passionate about data science and machine learning, a
 
 ## 📌 Pinned Repositories
 
-- [Obesity Prediction(Logistic Regession and SVM)]([https://github.com/lamelkekana/Obesity_Prediction])
-- [Life Insurance(Exploratory Data Analysis)]([https://github.com/lamelkekana/Life-Insurance-Exploratory-Data-Analysis])
-- [NewsArticleClassification]([https://github.com/lamelkekana/Team3_NewsArticleClassificationProject])
+- [Obesity Prediction(Logistic Regession and SVM)](https://github.com/lamelkekana/Obesity_Prediction)
+- [Life Insurance(Exploratory Data Analysis)](https://github.com/lamelkekana/Life-Insurance-Exploratory-Data-Analysis)
+- [NewsArticleClassification](https://github.com/lamelkekana/Team3_NewsArticleClassificationProject)
