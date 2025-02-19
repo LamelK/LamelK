@@ -4,7 +4,7 @@ Welcome to my profile! I'm passionate about data science and machine learning, a
 
 ## 🔗 Connect with Me:
 [![Email](https://img.shields.io/badge/Lamel466@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Lamel466@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/lamel-kekana-990932142) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/lamel-kekana-990932142) 
 
 ## 🚀 Skills & Expertise
 
