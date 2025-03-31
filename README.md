@@ -19,6 +19,8 @@ Welcome to my profile! I'm passionate about data science and machine learning, a
 
   
 ## 📈 My GitHub Stats:
+![Profile views](https://komarev.com/ghpvc/?username=lamelkekana)
+
 ![Lamel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamelkekana&show_icons=true&hide_title=true)
 
 ---
