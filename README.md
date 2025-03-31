@@ -1,5 +1,4 @@
 # Hello, I'm Lamel Kekana 👋
-![Greeting](https://img.shields.io/badge/Greeting-Good%20Morning-%23FF5733)
 
 Welcome to my profile! I'm passionate about data science and machine learning, and I love taking on projects that let me explore new technologies and put my skills to the test.
 
@@ -20,9 +19,10 @@ Welcome to my profile! I'm passionate about data science and machine learning, a
 
   
 ## 📈 My GitHub Stats:
-![Profile views](https://komarev.com/ghpvc/?username=lamelkekana)
 
 ![Lamel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamelkekana&show_icons=true&hide_title=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=lamelkekana)
 
 ---
 
