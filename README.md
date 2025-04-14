@@ -32,4 +32,6 @@ Feel free to explore my repositories, dive into the code, and if you find someth
 
 - [Obesity Prediction(Logistic Regession and SVM)](https://github.com/lamelkekana/Obesity_Prediction)
 - [Life Insurance(Exploratory Data Analysis)](https://github.com/lamelkekana/Life-Insurance-Exploratory-Data-Analysis)
+- [Anime Recommendation App](https://github.com/lamelkekana/Team4_anime_app)
+- [Fuel Consumption(MPG) Prediction](https://github.com/lamelkekana/Fuel_Economy_Insights)
 - [NewsArticleClassification](https://github.com/lamelkekana/Team3_NewsArticleClassificationProject)
