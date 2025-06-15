@@ -22,9 +22,9 @@ Feel free to explore my repositories, dive into the code, and if you find someth
   
 ## 📈 My GitHub Stats:
 
-![Lamel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamelkekana&show_icons=true&hide_title=true)
+![Lamel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamelk&show_icons=true&hide_title=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=lamelkekana)
+![Trophies](https://github-profile-trophy.vercel.app/?username=lamelk)
 
 ---
 
