@@ -30,7 +30,7 @@ Feel free to explore my repositories, dive into the code, and if you find someth
 
 ## 📌 Pinned Repositories
 
-- [Automated Data-Pipeline With Interactive-Dashboard](https://github.com/LamelK/Automated-Data-Pipeline-Interactive-Dashboard)
+- [Automated Data-Pipeline With Interactive-Dashboard](https://github.com/LamelK/automated-sales-pipeline-dashboard)
 - [Obesity Prediction(Logistic Regession and SVM)](https://github.com/lamelkekana/Obesity_Prediction)
 - [Life Insurance(Exploratory Data Analysis)](https://github.com/lamelkekana/Life-Insurance-Exploratory-Data-Analysis)
 - [Anime Recommendation App](https://github.com/lamelkekana/Team4_anime_app)
